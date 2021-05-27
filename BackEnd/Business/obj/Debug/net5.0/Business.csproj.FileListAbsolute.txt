@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\bin\Debug\net5.0\Business.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\bin\Debug\net5.0\Repository.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\bin\Debug\net5.0\Repository.pdb
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Business\obj\Debug\net5.0\Business.pdb

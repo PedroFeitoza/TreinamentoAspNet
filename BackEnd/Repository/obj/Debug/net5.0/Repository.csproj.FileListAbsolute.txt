@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\T-Gamer\Documents\Visual Studio\Projetos\PRATICA CI&T\TreinamentoAPI\Repository\obj\Debug\net5.0\Repository.pdb
